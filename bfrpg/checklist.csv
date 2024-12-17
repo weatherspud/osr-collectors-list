@@ -1,4 +1,13 @@
-﻿year,title,publisher,image,product_type
-2006,Basic Fantasy Role-Playing Game,Chris Gonnerman,bfrpg_01.jpeg,rulebook
-2008,"Basic Fantasy Role-Playing Game, 2nd Edition",Chris Gonnerman,bfrpg_02.jpeg,rulebook
-2014,"Basic Fantasy Role-Playing Game, 3rd Edition",Chris Gonnerman,bfrpg_03.jpeg,rulebook
+﻿year,title,publisher,image,product_type,cagegory
+2006,Basic Fantasy Role-Playing Game,Chris Gonnerman,bfrpg_01.jpeg,rulebook,osr
+2011,"Basic Fantasy Role-Playing Game, 2nd Edition",Chris Gonnerman,bfrpg_02.jpeg,rulebook,osr
+2014,"Basic Fantasy Role-Playing Game, 3rd Edition",Chris Gonnerman,bfrpg_03.jpeg,rulebook,osr
+2007,BF1 Morgansfort: The Western Lands Campaign,Chris Gonnerman,morgansfort_01.jpeg,adventure,osr
+2015,"BF1 Morgansfort: The Western Lands Campaign, 2nd Edition",Chris Gonnerman,morgansfort_02.jpeg,adventure,osr
+2011,"BF2 Fortress, Tomb, and Tower: The Glain Campaign",Chris Gonnerman,bfrpg_04.jpeg,adventure,osr
+2016,"BF2 Fortress, Tomb, and Tower: The Glain Campaign, Revised Cover",Chris Gonnerman,bfrpg_05.jpeg,adventure,osr
+2011,JN1 The Chaotic Caves,Chris Gonnerman,bfrpg_07.jpeg,adventure,osr
+2016,"JN1 The Chaotic Caves, Revised Cover",Chris Gonnerman,bfrpg_08.jpeg,adventure,osr
+2011,JN2 Monkey Isle,Chris Gonnerman,bfrpg_09.jpeg,adventure,osr
+2016,"JN2 Monkey Isle, Revised Cover",Chris Gonnerman,bfrpg_10.jpeg,adventure,osr
+2014,AA1 Adventure Anthology One,Chris Gonnerman,bfrpg_06.jpeg,adventure,osr
